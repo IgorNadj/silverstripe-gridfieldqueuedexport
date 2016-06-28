@@ -6,7 +6,7 @@
 	"license": "BSD-3-Clause",
 	"minimum-stability": "dev",
 	"require": {
-		"silverstripe/framework": "^3.3",
+		"silverstripe/framework": "^3.1",
         "silverstripe/queuedjobs": "^2.8"
 	},
 	"extra":
